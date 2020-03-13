@@ -1,0 +1,8 @@
+exp
+*.wav
+*.npy
+__pycache__
+~*
+.vscode
+_pesq*
+-FLAGS.py
